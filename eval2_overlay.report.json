@@ -1,0 +1,15 @@
+{
+  "video": "hatalı form 2 ön açı.mp4",
+  "frames": 140,
+  "pose_missing_frames": 2,
+  "violations_count": {
+    "elbow_left": 35,
+    "elbow_right": 48,
+    "shoulder_left": 21,
+    "shoulder_right": 27,
+    "z": 12,
+    "bar_drop": 22,
+    "shoulder_protr": 56
+  },
+  "ref_used": "reference_correct.json"
+}
