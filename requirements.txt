@@ -1,0 +1,7 @@
+opencv-python>=4.8
+mediapipe>=0.10
+numpy>=1.24
+torch>=2.0
+torchvision>=0.15
+Pillow>=10.0
+timm>=0.9        # MiDaS torch.hub icin gerekli

@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Isletim sistemi
+.DS_Store
+Thumbs.db
+
+# Uretilen overlay ciktilari (--out ile yeniden uretilir).
+# ref_overlay.mp4 BILEREK depoda: referans kosusunun demo ciktisi.
+out_overlay.mp4
+eval_overlay.mp4
+eval2_overlay.mp4
+
+# torch.hub onbellegi
+.cache/
