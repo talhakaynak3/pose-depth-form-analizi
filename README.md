@@ -148,4 +148,5 @@ tutmadığını saniyeler içinde görmeyi sağlar.
 
 ## Lisans
 
-Eğitim ve portföy amaçlı bir projedir. Tüm hakları saklıdır.
+Eğitim ve portföy amaçlı yayımlanmıştır; okuyabilir ve inceleyebilirsiniz.
+Tüm hakları saklıdır — bkz. [`LICENSE`](LICENSE).
